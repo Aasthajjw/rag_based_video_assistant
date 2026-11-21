@@ -1,5 +1,7 @@
 # AI Video Assistant
 
+Website - https://ragbasedvideoassistant-6bhcsmagyiyqyhwfhwc83m.streamlit.app/
+
 An AI-powered application that converts YouTube videos and audio into meaningful, structured information. It helps users understand lengthy videos and meetings through automatic transcription, summarization, key-point extraction, and an interactive question-answering system.
 
 The application combines speech recognition, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) to make video content easier to understand and explore.
